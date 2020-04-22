@@ -24,5 +24,5 @@ BIOS SETTINGS:
 Create a usb installer:
   I want to link a very well made guide to create an installer:https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/
   
-  When you create the EFI partition do not install with clover as the guide says,just mount EFI partition and paste the my  
+  When you create the EFI partition do not install with clover as the guide says,just mount EFI partition and paste my  
   unzipped EFI folder.
